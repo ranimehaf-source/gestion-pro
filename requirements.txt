@@ -2,7 +2,5 @@ flask
 flask-cors
 pyjwt
 fpdf
-arabic-reshaper
-python-bidi
 gunicorn
 psycopg2-binary

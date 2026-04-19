@@ -1,6 +1,4 @@
 from fpdf import FPDF
-import arabic_reshaper
-from bidi.algorithm import get_display
 
 class FacturePDF(FPDF):
     def header(self):
