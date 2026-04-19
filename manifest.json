@@ -1,0 +1,17 @@
+{
+  "name": "Gestion Pro — حفيان منير",
+  "short_name": "Gestion Pro",
+  "description": "Logiciel de gestion commerciale — Importation + Vente",
+  "start_url": "/gestion-pro/",
+  "display": "standalone",
+  "background_color": "#1a3a5c",
+  "theme_color": "#1a3a5c",
+  "orientation": "any",
+  "icons": [
+    {"src": "icon-192.png","sizes": "192x192","type": "image/png","purpose": "any maskable"},
+    {"src": "icon-512.png","sizes": "512x512","type": "image/png","purpose": "any maskable"}
+  ],
+  "categories": ["business", "finance", "productivity"],
+  "lang": "fr",
+  "dir": "ltr"
+}
